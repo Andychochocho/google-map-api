@@ -1,7 +1,5 @@
 # Github Api
 
-#### A site to test my skills for week one of the JavaScript class at Epicodus(March-April)
-
 #### By Andrew Cho
 
 ## Description
